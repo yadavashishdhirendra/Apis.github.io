@@ -1,0 +1,145 @@
+{
+    "data": [{
+            "name": "warmFlame",
+            "direction": "90deg",
+            "colors": [
+                "#423F8D",
+                "#fad0c4"
+            ],
+            "positions": [
+                "0%",
+                "100%"
+            ]
+        },
+        {
+            "name": "youngPassion",
+            "direction": "90deg",
+            "colors": [
+                "#423F8D",
+                "#423F8D",
+                "#423F8D",
+                "#f99185",
+                "#423F8D",
+                "#423F8D"
+            ],
+            "positions": [
+                "0%",
+                "0%",
+                "21%",
+                "52%",
+                "78%",
+                "100%"
+            ]
+        },
+        {
+            "name": "newLife",
+            "direction": "to right",
+            "colors": [
+                "#423F8D",
+                "#38f9d7"
+            ],
+            "positions": [
+                "0%",
+                "100%"
+            ]
+        },
+        {
+            "name": "temptingAzure",
+            "direction": "120deg",
+            "colors": [
+                "#423F8D",
+                "#8fd3f4"
+            ],
+            "positions": [
+                "0%",
+                "100%"
+            ]
+        },
+        {
+            "name": "ripeMalinka",
+            "direction": "120deg",
+            "colors": [
+                "#423F8D",
+                "#f5576c"
+            ],
+            "positions": [
+                "0%",
+                "100%"
+            ]
+        },
+        {
+            "name": "trueSunset",
+            "direction": "to right",
+            "colors": [
+                "#423F8D",
+                "#fee140"
+            ],
+            "positions": [
+                "0%",
+                "100%"
+            ]
+        },
+        {
+            "name": "plumPlate",
+            "direction": "135deg",
+            "colors": [
+                "#423F8D",
+                "#764ba2"
+            ],
+            "positions": [
+                "0%",
+                "100%"
+            ]
+        },
+        {
+            "name": "itmeoBranding",
+            "direction": "180deg",
+            "colors": [
+                "#423F8D",
+                "#009efd"
+            ],
+            "positions": [
+                "0%",
+                "100%"
+            ]
+        },
+        {
+            "name": "deepBlue",
+            "direction": "to right",
+            "colors": [
+                "#423F8D",
+                "#2575fc"
+            ],
+            "positions": [
+                "0%",
+                "100%"
+            ]
+        },
+        {
+            "name": "sweetPeriod",
+            "direction": "to top",
+            "colors": [
+                "#423F8D",
+                "#5a55ae",
+                "#423F8D",
+                "#8f6aae",
+                "#a86aa4",
+                "#423F8D",
+                "#f18271",
+                "#423F8D",
+                "#f7c978"
+            ],
+            "positions": [
+                "0%",
+                "13%",
+                "25%",
+                "38%",
+                "50%",
+                "62%",
+                "75%",
+                "87%",
+                "100%"
+            ]
+        }
+    ]
+}
