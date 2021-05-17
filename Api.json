@@ -4,7 +4,7 @@
             "direction": "90deg",
             "colors": [
                 "#423F8D",
-                "#fad0c4"
+                "red"
             ],
             "positions": [
                 "0%",
@@ -20,7 +20,7 @@
                 "#423F8D",
                 "#f99185",
                 "#423F8D",
-                "#423F8D"
+                "red"
             ],
             "positions": [
                 "0%",
@@ -36,7 +36,7 @@
             "direction": "to right",
             "colors": [
                 "#423F8D",
-                "#38f9d7"
+                "red"
             ],
             "positions": [
                 "0%",
@@ -48,7 +48,7 @@
             "direction": "120deg",
             "colors": [
                 "#423F8D",
-                "#8fd3f4"
+                "red"
             ],
             "positions": [
                 "0%",
@@ -60,7 +60,7 @@
             "direction": "120deg",
             "colors": [
                 "#423F8D",
-                "#f5576c"
+                "red"
             ],
             "positions": [
                 "0%",
@@ -72,49 +72,14 @@
             "direction": "to right",
             "colors": [
                 "#423F8D",
-                "#fee140"
+                "red"
             ],
             "positions": [
                 "0%",
                 "100%"
             ]
         },
-        {
-            "name": "plumPlate",
-            "direction": "135deg",
-            "colors": [
-                "#423F8D",
-                "#764ba2"
-            ],
-            "positions": [
-                "0%",
-                "100%"
-            ]
-        },
-        {
-            "name": "itmeoBranding",
-            "direction": "180deg",
-            "colors": [
-                "#423F8D",
-                "#009efd"
-            ],
-            "positions": [
-                "0%",
-                "100%"
-            ]
-        },
-        {
-            "name": "deepBlue",
-            "direction": "to right",
-            "colors": [
-                "#423F8D",
-                "#2575fc"
-            ],
-            "positions": [
-                "0%",
-                "100%"
-            ]
-        },
+      
         {
             "name": "sweetPeriod",
             "direction": "to top",
